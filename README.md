@@ -19,4 +19,4 @@ export default class RoundImageViewTest extends Component {
 }
 ```
 # 效果图
-[效果图](https://note.youdao.com/)
+[效果图](https://github.com/wenjinzhu/NativeUIForReact/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
